@@ -1,0 +1,20 @@
+{
+  "description": "NDA tracking template — one entry per investor",
+  "deal_id": null,
+  "company_name": null,
+  "nda_records": [
+    {
+      "investor_name": "",
+      "investor_email": "",
+      "investor_firm": "",
+      "nda_sent_date": null,
+      "nda_signed_date": null,
+      "nda_status": "pending",
+      "pitch_deck_sent": false,
+      "pitch_deck_sent_date": null,
+      "notes": ""
+    }
+  ],
+  "nda_status_options": ["pending", "sent", "signed", "expired", "declined"],
+  "notes": "Pitch deck MUST NOT be sent until nda_status = 'signed'"
+}

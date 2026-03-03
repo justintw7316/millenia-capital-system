@@ -1,0 +1,29 @@
+{
+  "deal_id": "test_clean_001",
+  "generated_at": "2026-02-24T22:10:07.056165",
+  "segments": {
+    "deep_tech": {
+      "count": 2,
+      "investors": [
+        "Michael Chen",
+        "Sarah Rodriguez"
+      ]
+    },
+    "warm_network": {
+      "count": 1,
+      "investors": [
+        "James Thornton"
+      ]
+    },
+    "general_early_stage": {
+      "count": 1,
+      "investors": [
+        "Priya Nair"
+      ]
+    }
+  },
+  "ab_variant_recommendation": {
+    "variant_a": "Highest-thesis-alignment segment (e.g., ai_infra)",
+    "variant_b": "Warm-network or secondary segment for contrast"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "collections": [
+    "company_deal_profiles",
+    "company_doc_chunks"
+  ],
+  "fields": {
+    "entity_id": "edge_api_001",
+    "entity_type": "company_deal_profile",
+    "industry_tags": [
+      "artificial intelligence"
+    ],
+    "stage_tags": [
+      "series_a"
+    ],
+    "geos": [
+      "United States"
+    ],
+    "date_published": "2026-02-24",
+    "freshness_bucket": "current",
+    "confidence": 0.75,
+    "visibility": "internal"
+  }
+}

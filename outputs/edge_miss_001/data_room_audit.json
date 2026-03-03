@@ -1,0 +1,61 @@
+{
+  "deal_id": "edge_miss_001",
+  "company_name": "EdgeCase Corp",
+  "audited_at": "2026-02-24T22:10:05.340943",
+  "document_status": {
+    "tear_sheet": "missing",
+    "pitch_deck": "missing",
+    "financial_projections": "missing",
+    "nda": "approved",
+    "ppm": "missing",
+    "subscription_agreement": "missing",
+    "wiring_instructions": "missing",
+    "use_of_funds": "missing"
+  },
+  "missing_documents": [
+    "tear_sheet",
+    "pitch_deck",
+    "financial_projections",
+    "ppm",
+    "subscription_agreement",
+    "wiring_instructions",
+    "use_of_funds"
+  ],
+  "human_actions_required": [
+    {
+      "document": "tear_sheet",
+      "instruction": "Create 1-2 page investor tear sheet. AI draft will be generated \u2014 send to Abby for design.",
+      "priority": "high"
+    },
+    {
+      "document": "pitch_deck",
+      "instruction": "Build 11-slide pitch deck using provided outline. Send to Abby for design.",
+      "priority": "medium"
+    },
+    {
+      "document": "financial_projections",
+      "instruction": "Provide 3-5 year financial projections including FCFF, WACC, Income Statement, Balance Sheet.",
+      "priority": "medium"
+    },
+    {
+      "document": "ppm",
+      "instruction": "Prepare Private Placement Memorandum with Dock Walls.",
+      "priority": "medium"
+    },
+    {
+      "document": "subscription_agreement",
+      "instruction": "Prepare Subscription Agreement with Dock Walls.",
+      "priority": "medium"
+    },
+    {
+      "document": "wiring_instructions",
+      "instruction": "Provide bank wiring instructions for investor commitments.",
+      "priority": "medium"
+    },
+    {
+      "document": "use_of_funds",
+      "instruction": "Provide detailed Use of Funds breakdown for the raise amount.",
+      "priority": "medium"
+    }
+  ]
+}

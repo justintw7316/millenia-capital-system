@@ -1,0 +1,109 @@
+{
+  "week": 1,
+  "investor_messages": [
+    {
+      "week": 1,
+      "investor_name": "Michael Chen",
+      "messages": {
+        "x_twitter": {
+          "platform": "x_twitter",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "sms": {
+          "platform": "sms",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "whatsapp": {
+          "platform": "whatsapp",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "email": {
+          "platform": "email",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "linkedin": {
+          "platform": "linkedin",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        }
+      }
+    },
+    {
+      "week": 1,
+      "investor_name": "James Thornton",
+      "messages": {
+        "x_twitter": {
+          "platform": "x_twitter",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "sms": {
+          "platform": "sms",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "whatsapp": {
+          "platform": "whatsapp",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "email": {
+          "platform": "email",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "linkedin": {
+          "platform": "linkedin",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        }
+      }
+    },
+    {
+      "week": 1,
+      "investor_name": "Sarah Rodriguez",
+      "messages": {
+        "x_twitter": {
+          "platform": "x_twitter",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "sms": {
+          "platform": "sms",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "whatsapp": {
+          "platform": "whatsapp",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "email": {
+          "platform": "email",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "linkedin": {
+          "platform": "linkedin",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        }
+      }
+    },
+    {
+      "week": 1,
+      "investor_name": "Priya Nair",
+      "messages": {
+        "x_twitter": {
+          "platform": "x_twitter",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "sms": {
+          "platform": "sms",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "whatsapp": {
+          "platform": "whatsapp",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "email": {
+          "platform": "email",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        },
+        "linkedin": {
+          "platform": "linkedin",
+          "error": "\"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\""
+        }
+      }
+    }
+  ]
+}

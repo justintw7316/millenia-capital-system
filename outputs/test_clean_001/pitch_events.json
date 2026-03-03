@@ -1,0 +1,63 @@
+{
+  "deal_id": "test_clean_001",
+  "company": "TestCorp AI",
+  "generated_at": "2026-02-24T22:10:07.597185",
+  "events": [
+    {
+      "name": "TechCrunch Disrupt",
+      "location": "San Francisco, CA",
+      "date": "2026-10-01",
+      "url": "https://techcrunch.com/events/tc-disrupt-2026/",
+      "type": "pitch_competition"
+    },
+    {
+      "name": "Y Combinator Demo Day",
+      "location": "San Francisco, CA",
+      "date": "2026-03-15",
+      "url": "https://www.ycombinator.com/demoday",
+      "type": "demo_day"
+    },
+    {
+      "name": "SaaStr Annual",
+      "location": "San Mateo, CA",
+      "date": "2026-09-09",
+      "url": "https://www.saastr.com/annual/",
+      "type": "conference"
+    },
+    {
+      "name": "Web Summit",
+      "location": "Lisbon, Portugal",
+      "date": "2026-11-04",
+      "url": "https://websummit.com/",
+      "type": "conference"
+    },
+    {
+      "name": "Collision Conference",
+      "location": "Toronto, Canada",
+      "date": "2026-06-23",
+      "url": "https://collisionconf.com/",
+      "type": "conference"
+    },
+    {
+      "name": "Startup Grind Global",
+      "location": "Redwood City, CA",
+      "date": "2026-02-18",
+      "url": "https://www.startupgrind.com/conference/",
+      "type": "pitch_event"
+    },
+    {
+      "name": "LAUNCH Festival",
+      "location": "San Francisco, CA",
+      "date": "2026-03-05",
+      "url": "https://www.launchfestival.com/",
+      "type": "pitch_competition"
+    },
+    {
+      "name": "Venture Atlanta",
+      "location": "Atlanta, GA",
+      "date": "2026-10-15",
+      "url": "https://www.ventureatlanta.org/",
+      "type": "pitch_event"
+    }
+  ]
+}

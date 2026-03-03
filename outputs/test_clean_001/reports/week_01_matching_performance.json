@@ -1,0 +1,67 @@
+{
+  "deal_id": "test_clean_001",
+  "week": 1,
+  "generated_at": "2026-02-24T22:10:07.651032",
+  "metrics_tracked": [
+    "reply_rate_by_score_decile",
+    "commit_rate_by_score_decile",
+    "conversion_by_match_segment"
+  ],
+  "deciles": [
+    {
+      "decile": 1,
+      "score_min": 53.0,
+      "score_max": 53.0,
+      "count": 1,
+      "reply_rate": 0.0,
+      "commit_rate": 0.0
+    },
+    {
+      "decile": 2,
+      "score_min": 52.0,
+      "score_max": 52.0,
+      "count": 1,
+      "reply_rate": 0.0,
+      "commit_rate": 0.0
+    },
+    {
+      "decile": 3,
+      "score_min": 46.0,
+      "score_max": 46.0,
+      "count": 1,
+      "reply_rate": 0.0,
+      "commit_rate": 0.0
+    },
+    {
+      "decile": 4,
+      "score_min": 40.0,
+      "score_max": 40.0,
+      "count": 1,
+      "reply_rate": 0.0,
+      "commit_rate": 0.0
+    }
+  ],
+  "segments": {
+    "deep_tech": {
+      "count": 2,
+      "responded": 0,
+      "committed": 0,
+      "reply_rate": 0.0,
+      "commit_rate": 0.0
+    },
+    "warm_network": {
+      "count": 1,
+      "responded": 0,
+      "committed": 0,
+      "reply_rate": 0.0,
+      "commit_rate": 0.0
+    },
+    "general_early_stage": {
+      "count": 1,
+      "responded": 0,
+      "committed": 0,
+      "reply_rate": 0.0,
+      "commit_rate": 0.0
+    }
+  }
+}

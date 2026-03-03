@@ -1,0 +1,291 @@
+{
+  "deal_id": "test_clean_001",
+  "generated_at": "2026-02-24T22:10:06.909658",
+  "results": [
+    {
+      "rank": 1,
+      "investor": "Michael Chen",
+      "firm": "Sequoia Capital",
+      "match_segment": "deep_tech",
+      "score_breakdown": {
+        "final_score": 0.528,
+        "weights": {
+          "semantic_fit": 0.3,
+          "stage_and_check": 0.2,
+          "recent_activity": 0.15,
+          "portfolio_adjacency": 0.1,
+          "geography_fit": 0.1,
+          "warm_intro_score": 0.1,
+          "data_quality_confidence": 0.05
+        }
+      },
+      "match_features": {
+        "semantic_fit": 0.09344270596078012,
+        "stage_compatibility": 1.0,
+        "check_size_compatibility": 0.2,
+        "recent_activity": 0.9000000000000001,
+        "portfolio_adjacency": 0.3,
+        "geography_fit": 1.0,
+        "warm_intro_score": 0.7,
+        "data_quality_confidence": 0.9,
+        "keyword_overlap": 0.08,
+        "style_affinity": 0.0,
+        "response_likelihood_prior": 0.5
+      },
+      "match_explanation": {
+        "reasons": [
+          "Series A-stage focus matches target raise stage",
+          "Recent deployment activity proxy is strong (7 deals in last 12 months)",
+          "Warm path via Millenia network (prior target list)"
+        ],
+        "warnings": [],
+        "source_provenance": [
+          {
+            "source_type": "sample_dataset",
+            "source_url": "https://linkedin.com/in/michael-chen-vc",
+            "date": "2026-02-24",
+            "confidence": 0.8
+          },
+          {
+            "source_type": "portfolio_summary",
+            "source_url": "https://sequoiacap.com",
+            "date": "2026-02-24",
+            "confidence": 0.7
+          }
+        ],
+        "match_segment": "deep_tech"
+      },
+      "recent_signals": [
+        {
+          "source_type": "sample_dataset",
+          "text": "Deep focus on AI/ML companies; recent portfolio includes 4 AI startups",
+          "source_url": "https://linkedin.com/in/michael-chen-vc",
+          "date": "2026-02-24",
+          "confidence": 0.8,
+          "visibility": "public"
+        },
+        {
+          "source_type": "portfolio_summary",
+          "text": "Scale AI; Hugging Face; Cohere",
+          "source_url": "https://sequoiacap.com",
+          "date": "2026-02-24",
+          "confidence": 0.7,
+          "visibility": "public"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "investor": "James Thornton",
+      "firm": "Khosla Ventures",
+      "match_segment": "warm_network",
+      "score_breakdown": {
+        "final_score": 0.5229,
+        "weights": {
+          "semantic_fit": 0.3,
+          "stage_and_check": 0.2,
+          "recent_activity": 0.15,
+          "portfolio_adjacency": 0.1,
+          "geography_fit": 0.1,
+          "warm_intro_score": 0.1,
+          "data_quality_confidence": 0.05
+        }
+      },
+      "match_features": {
+        "semantic_fit": 0.026196926371519363,
+        "stage_compatibility": 1.0,
+        "check_size_compatibility": 0.2,
+        "recent_activity": 1.0,
+        "portfolio_adjacency": 0.3,
+        "geography_fit": 1.0,
+        "warm_intro_score": 0.7,
+        "data_quality_confidence": 0.9,
+        "keyword_overlap": 0.12,
+        "style_affinity": 0.0,
+        "response_likelihood_prior": 0.5
+      },
+      "match_explanation": {
+        "reasons": [
+          "Series A-stage focus matches target raise stage",
+          "Recent deployment activity proxy is strong (9 deals in last 12 months)",
+          "Warm path via Millenia network (prior target list)"
+        ],
+        "warnings": [],
+        "source_provenance": [
+          {
+            "source_type": "sample_dataset",
+            "source_url": "https://linkedin.com/in/james-thornton-kv",
+            "date": "2026-02-24",
+            "confidence": 0.8
+          },
+          {
+            "source_type": "portfolio_summary",
+            "source_url": "https://khoslaventures.com",
+            "date": "2026-02-24",
+            "confidence": 0.7
+          }
+        ],
+        "match_segment": "warm_network"
+      },
+      "recent_signals": [
+        {
+          "source_type": "sample_dataset",
+          "text": "Khosla's AI thesis aligns directly with the company's product approach",
+          "source_url": "https://linkedin.com/in/james-thornton-kv",
+          "date": "2026-02-24",
+          "confidence": 0.8,
+          "visibility": "public"
+        },
+        {
+          "source_type": "portfolio_summary",
+          "text": "OpenAI; Gong.io; Nuro",
+          "source_url": "https://khoslaventures.com",
+          "date": "2026-02-24",
+          "confidence": 0.7,
+          "visibility": "public"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "investor": "Sarah Rodriguez",
+      "firm": "Andreessen Horowitz",
+      "match_segment": "deep_tech",
+      "score_breakdown": {
+        "final_score": 0.4627,
+        "weights": {
+          "semantic_fit": 0.3,
+          "stage_and_check": 0.2,
+          "recent_activity": 0.15,
+          "portfolio_adjacency": 0.1,
+          "geography_fit": 0.1,
+          "warm_intro_score": 0.1,
+          "data_quality_confidence": 0.05
+        }
+      },
+      "match_features": {
+        "semantic_fit": 0.059059407415067725,
+        "stage_compatibility": 1.0,
+        "check_size_compatibility": 0.2,
+        "recent_activity": 1.0,
+        "portfolio_adjacency": 0.3,
+        "geography_fit": 1.0,
+        "warm_intro_score": 0.0,
+        "data_quality_confidence": 0.9,
+        "keyword_overlap": 0.16,
+        "style_affinity": 0.0,
+        "response_likelihood_prior": 0.5
+      },
+      "match_explanation": {
+        "reasons": [
+          "Series A-stage focus matches target raise stage",
+          "Recent deployment activity proxy is strong (8 deals in last 12 months)"
+        ],
+        "warnings": [],
+        "source_provenance": [
+          {
+            "source_type": "sample_dataset",
+            "source_url": "https://linkedin.com/in/sarah-rodriguez-a16z",
+            "date": "2026-02-24",
+            "confidence": 0.8
+          },
+          {
+            "source_type": "portfolio_summary",
+            "source_url": "https://a16z.com",
+            "date": "2026-02-24",
+            "confidence": 0.7
+          }
+        ],
+        "match_segment": "deep_tech"
+      },
+      "recent_signals": [
+        {
+          "source_type": "sample_dataset",
+          "text": "a16z AI Fund specifically targets early-stage AI companies in this exact space",
+          "source_url": "https://linkedin.com/in/sarah-rodriguez-a16z",
+          "date": "2026-02-24",
+          "confidence": 0.8,
+          "visibility": "public"
+        },
+        {
+          "source_type": "portfolio_summary",
+          "text": "OpenAI; Anthropic; Mistral",
+          "source_url": "https://a16z.com",
+          "date": "2026-02-24",
+          "confidence": 0.7,
+          "visibility": "public"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "investor": "Priya Nair",
+      "firm": "First Round Capital",
+      "match_segment": "general_early_stage",
+      "score_breakdown": {
+        "final_score": 0.4021,
+        "weights": {
+          "semantic_fit": 0.3,
+          "stage_and_check": 0.2,
+          "recent_activity": 0.15,
+          "portfolio_adjacency": 0.1,
+          "geography_fit": 0.1,
+          "warm_intro_score": 0.1,
+          "data_quality_confidence": 0.05
+        }
+      },
+      "match_features": {
+        "semantic_fit": 0.057131711464248176,
+        "stage_compatibility": 0.7,
+        "check_size_compatibility": 0.2,
+        "recent_activity": 0.8,
+        "portfolio_adjacency": 0.3,
+        "geography_fit": 1.0,
+        "warm_intro_score": 0.0,
+        "data_quality_confidence": 0.9,
+        "keyword_overlap": 0.08,
+        "style_affinity": 0.0,
+        "response_likelihood_prior": 0.5
+      },
+      "match_explanation": {
+        "reasons": [
+          "Recent deployment activity proxy is strong (6 deals in last 12 months)"
+        ],
+        "warnings": [],
+        "source_provenance": [
+          {
+            "source_type": "sample_dataset",
+            "source_url": "https://linkedin.com/in/priya-nair-vc",
+            "date": "2026-02-24",
+            "confidence": 0.8
+          },
+          {
+            "source_type": "portfolio_summary",
+            "source_url": "https://firstround.com",
+            "date": "2026-02-24",
+            "confidence": 0.7
+          }
+        ],
+        "match_segment": "general_early_stage"
+      },
+      "recent_signals": [
+        {
+          "source_type": "sample_dataset",
+          "text": "First Round specializes in seed-stage deals \u2014 perfectly aligned with raise stage",
+          "source_url": "https://linkedin.com/in/priya-nair-vc",
+          "date": "2026-02-24",
+          "confidence": 0.8,
+          "visibility": "public"
+        },
+        {
+          "source_type": "portfolio_summary",
+          "text": "Square; Notion; Roblox",
+          "source_url": "https://firstround.com",
+          "date": "2026-02-24",
+          "confidence": 0.7,
+          "visibility": "public"
+        }
+      ]
+    }
+  ]
+}

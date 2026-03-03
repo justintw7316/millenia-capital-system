@@ -1,0 +1,22 @@
+{
+  "deal_id": "deal_001",
+  "company_name": "AcmeTech AI",
+  "company_website": "https://acmetechai.com",
+  "industry": "artificial intelligence",
+  "raise_amount": 2500000,
+  "founder_name": "Jane Smith",
+  "founder_email": "jane@acmetechai.com",
+  "founder_linkedin": "https://linkedin.com/in/janesmith",
+  "stage": "onboarded",
+  "documents": {
+    "tear_sheet": "missing",
+    "pitch_deck": "missing",
+    "financial_projections": "draft",
+    "nda": "approved",
+    "ppm": "missing",
+    "subscription_agreement": "missing",
+    "wiring_instructions": "missing",
+    "use_of_funds": "draft"
+  },
+  "created_at": "2026-02-24"
+}

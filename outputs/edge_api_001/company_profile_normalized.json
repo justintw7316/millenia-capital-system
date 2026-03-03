@@ -1,0 +1,24 @@
+{
+  "deal_id": "edge_api_001",
+  "company_name": "EdgeCase Corp",
+  "industry": "artificial intelligence",
+  "company_website": "https://edgecase.com",
+  "raise_amount": 2500000,
+  "stage": "series_a",
+  "geography": [
+    "United States"
+  ],
+  "subindustry": null,
+  "business_model": "TBD",
+  "traction_metrics": {},
+  "text_fields": {
+    "company_core": "EdgeCase Corp is a artificial intelligence company raising $2,500,000.",
+    "problem": "EdgeCase Corp addresses a core problem in artificial intelligence.",
+    "industry_market": "artificial intelligence market opportunity in the United States for early-stage growth.",
+    "traction": "Traction metrics pending detailed data room uploads; use placeholders until validated.",
+    "raise_thesis": "Raising $2,500,000 over a 90-day process to fund growth milestones, investor outreach, and execution.",
+    "founder_story": "Founder Test Founder is leading EdgeCase Corp. Contact: founder@edgecase.com. LinkedIn: https://linkedin.com/in/testfounder",
+    "full_profile": "Company: EdgeCase Corp\nWebsite: https://edgecase.com\nIndustry: artificial intelligence\nRaise Amount: $2,500,000\nFounder: Test Founder (founder@edgecase.com)\nLinkedIn: https://linkedin.com/in/testfounder\n"
+  },
+  "generated_at": "2026-02-24T22:10:05.655859"
+}

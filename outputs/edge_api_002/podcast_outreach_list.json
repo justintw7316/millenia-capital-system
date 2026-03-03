@@ -1,0 +1,68 @@
+{
+  "deal_id": "edge_api_002",
+  "company": "EdgeCase Corp",
+  "industry": "artificial intelligence",
+  "generated_at": "2026-02-24T22:10:06.199377",
+  "podcasts": [
+    {
+      "name": "Lex Fridman Podcast",
+      "host": "Lex Fridman",
+      "email": "contact@lexfridman.com",
+      "focus": "AI, technology, science"
+    },
+    {
+      "name": "The TWIML AI Podcast",
+      "host": "Sam Charrington",
+      "email": "sam@twimlai.com",
+      "focus": "Machine learning, AI"
+    },
+    {
+      "name": "Gradient Dissent",
+      "host": "Lukas Biewald",
+      "email": "podcast@wandb.com",
+      "focus": "ML practitioners"
+    },
+    {
+      "name": "Practical AI",
+      "host": "Chris Benson",
+      "email": "practicalai@changelog.com",
+      "focus": "Practical AI applications"
+    },
+    {
+      "name": "The AI Podcast (NVIDIA)",
+      "host": "NVIDIA Team",
+      "email": "media@nvidia.com",
+      "focus": "AI, deep learning"
+    },
+    {
+      "name": "Eye on AI",
+      "host": "Craig Smith",
+      "email": "craig@eyeonai.com",
+      "focus": "AI business applications"
+    },
+    {
+      "name": "Data Skeptic",
+      "host": "Kyle Polich",
+      "email": "kyle@dataskeptic.com",
+      "focus": "Data science, ML"
+    },
+    {
+      "name": "The Robot Brains Podcast",
+      "host": "Pieter Abbeel",
+      "email": "info@robotbrains.fm",
+      "focus": "Robotics, AI"
+    },
+    {
+      "name": "AI Alignment Podcast",
+      "host": "Lucas Perry",
+      "email": "lucas@futureoflife.org",
+      "focus": "AI safety"
+    },
+    {
+      "name": "Venture Stories",
+      "host": "Erik Torenberg",
+      "email": "erik@villageglobal.vc",
+      "focus": "Startups, VC, AI"
+    }
+  ]
+}

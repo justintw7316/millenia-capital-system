@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-02-24T22:10:06.096531",
+  "deal_id": "edge_api_002",
+  "company": "EdgeCase Corp",
+  "industry": "artificial intelligence",
+  "title_filters": [
+    "General Partner",
+    "Managing Partner",
+    "Partner",
+    "Principal",
+    "Venture Partner",
+    "Investment Director",
+    "Head of Investments",
+    "Angel Investor"
+  ],
+  "industry_keywords": [
+    "AI",
+    "Machine Learning",
+    "Deep Tech",
+    "SaaS"
+  ],
+  "geography": [
+    "United States",
+    "Canada"
+  ],
+  "company_type": [
+    "Venture Capital",
+    "Private Equity",
+    "Family Office",
+    "Angel Network"
+  ],
+  "seniority": [
+    "Director",
+    "VP",
+    "C-Level",
+    "Partner",
+    "Owner"
+  ],
+  "exclusions": [
+    "Recruiter",
+    "Advisor",
+    "Student",
+    "Intern"
+  ],
+  "raise_amount_context": 2500000,
+  "notes": "Filter for investors actively posting about seed/early-stage deals. Priority: investors who have posted about portfolio investments in last 90 days."
+}
